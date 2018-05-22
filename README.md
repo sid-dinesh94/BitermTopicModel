@@ -33,3 +33,6 @@ Results
 ___________
 
 Unfortunately, I was not able to get satisfactory results for the terms that belong to a particular topic. I have not been able to figure out the bug that is causing this.
+
+
+Github repo: https://github.com/sid-dinesh94/BitermTopicModel/
